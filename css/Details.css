@@ -1,0 +1,30 @@
+body{
+    background-color: crimson;
+}
+form{
+    background-color:maroon;
+    color: white;
+    width: 80%;
+    margin: auto;
+    padding-left: 65px;
+    align-content: center;
+}
+label{
+    display: inline-block;
+    width: 120px;
+    padding-left: 2px;
+
+}
+textarea{
+    height: 30px;
+    width: 30%;
+}
+button{
+    width: 40%;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+select{
+    width: 20%;
+}

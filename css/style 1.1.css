@@ -1,0 +1,19 @@
+img{
+    width: 200px;
+    height: 200px;
+    padding-bottom: 10px;
+}
+
+p{
+    padding-top: 50px;
+    padding-left: 15px;
+}
+
+#main{
+    margin-right: 40px;
+    margin-left: 9px;
+}
+
+.division1{
+    display: flex;
+}

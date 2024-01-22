@@ -1,0 +1,31 @@
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+.division1{
+    background-color: #840505;
+}
+.division2{
+    background-color: crimson;
+}
+.division3{
+    background-color: #720698;
+}
+#main{
+    background-color: #da919c;
+    display: flex;
+    padding: 30px;
+}
+.division1:hover{
+    background-color: beige;
+}
+.heading1{
+    color: red;
+}
+.imageparagraph{
+    display: flex;
+}

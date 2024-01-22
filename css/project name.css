@@ -1,0 +1,57 @@
+form{
+    background-color: aqua;
+    width: 60%;
+    margin: auto;
+    padding: 10px;
+}
+input[type=radio]{
+    display: inline-block;
+}
+input[type=text]{
+    border-radius: 5px;
+    width: 50%;
+    height: 30px;
+}
+input[type=date]{
+    border-radius: 5px;
+    width: 50%;
+    height: 30px;
+}
+
+select{
+    width: 50%;
+    height: 30px;
+}
+textarea{
+    width: 60%;
+    height: 40px;
+    border-radius: 5px;
+}
+button[type=submit]{
+    margin-bottom: 30px;
+    margin-left: 170px;
+    background-color: #3cb23c;
+    border-radius: 5px;
+    color: white;
+        padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+}
+button[type=clear]{
+    margin-left: 20px;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+}
+label{
+    display: inline-block;
+    width:120px;
+}
+
